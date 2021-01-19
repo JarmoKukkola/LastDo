@@ -1,4 +1,14 @@
 # LastDo
-LastDo is a highly customizable alarm, reminder, timer and stopwatch for Android. It is designed to make task management fun and effective. It contains over 100 themes and plenty of customization for needs of most people.
+LastDo is the ultimate life organizer app for Android.
 
-The source code will be released in the near future.
+It has the following features
+
+* Alarm
+* Reminder
+* Notepad
+* Time
+* Stopwatch
+* File sharing between Android devices
+* Over 100 themes
+
+All the features are designed to be practical and highly customizable.
